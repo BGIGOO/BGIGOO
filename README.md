@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manh Manh</h1>
+<h1 align="center">Hi 👋, I'm Mạnh</h1>
 <h3 align="center">A passionate cybersecurity student and developer from Vietnam 🇻🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhmanh&label=Profile%20views&color=0e75b6&style=flat" alt="manhmanh" /> </p>
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **CTF challenges & Web projects**
 - 🌱 I’m currently learning **Reverse Engineering, Web Security, and AI tools**
 - 💬 Ask me about **Python, PHP, SQLi, or Forensics**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **manhnguyen1768@gmail.com**
 - ⚡ Fun fact: *I love solving CTFs and breaking things (ethically)*
 
 ---
@@ -15,6 +15,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,linux,bash,git,vscode" />
 </p>
+
+---
+
+### 🔧 Project
+
+| Tên dự án | Công nghệ | Mô tả |
+|-----------|-----------|-------|
+| 💡 **Quản lý tiền điện (Spring MVC)** | Java, Spring MVC, SQL Server | Ứng dụng web quản lý chỉ số điện, tính hóa đơn bậc thang và thanh toán |
+| 🛡️ **Hệ thống bảo vệ mạng (iptables + Snort)** | Linux, Shell, Node.js | Quản lý firewall, block IP tự động khi phát hiện tấn công |
 
 ---
 
