@@ -24,6 +24,7 @@
 |-----------|-----------|-------|
 | 💡 **Quản lý tiền điện (Spring MVC)** | Java, Spring MVC, SQL Server | Ứng dụng web quản lý chỉ số điện, tính hóa đơn bậc thang và thanh toán |
 | 🛡️ **Hệ thống bảo vệ mạng (iptables + Snort)** | Linux, Shell, Node.js | Quản lý firewall, block IP tự động khi phát hiện tấn công |
+| 🛡️ **Tối ưu tuyến đường vận chuyển** | Html,Css, javaScript, Python Flask | Tích hợp bản đồ như GG Map, hiện thị tuyến đường tối ứu, thuật toán A* |
 
 ---
 
