@@ -1,43 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mạnh</h1>
-<h3 align="center">A passionate cybersecurity student and developer from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Nghia Manh</h1>
+<h3 align="center">Cybersecurity Student | SOC & Malware Analysis Enthusiast 🇻🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhmanh&label=Profile%20views&color=0e75b6&style=flat" alt="manhmanh" /> </p>
-
-- 🔭 I’m currently working on **CTF challenges & Web projects**
-- 🌱 I’m currently learning **Reverse Engineering, Web Security, and AI tools**
-- 💬 Ask me about **Python, PHP, SQLi, or Forensics**
-- 📫 How to reach me: **manhnguyen1768@gmail.com**
-- ⚡ Fun fact: *I love solving CTFs and breaking things (ethically)*
-
----
-
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,linux,bash,git,vscode" />
-</p>
-
----
-
-### 🔧 Project
-
-| Tên dự án | Công nghệ | Mô tả |
-|-----------|-----------|-------|
-| 💡 **Quản lý tiền điện (Spring MVC)** | Java, Spring MVC, SQL Server | Ứng dụng web quản lý chỉ số điện, tính hóa đơn bậc thang và thanh toán |
-| 🛡️ **Hệ thống bảo vệ mạng (iptables + Snort)** | Linux, Shell, Node.js | Quản lý firewall, block IP tự động khi phát hiện tấn công |
-| 🛡️ **Tối ưu tuyến đường vận chuyển** | Html,Css, javaScript, Python Flask | Tích hợp bản đồ như GG Map, hiện thị tuyến đường tối ứu, thuật toán A* |
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGIGOO&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BGIGOO&theme=radical&hide_border=false" />
+Information Security student at PTIT interested in <b>SOC operations, malware analysis, and threat detection</b>.
 </p>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://facebook.com/yourfacebook" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## 👨‍💻 About Me
+
+- 🎓 Information Security student at **PTIT**
+- 🛡️ Interested in **SOC Operations, Malware Analysis, Threat Detection**
+- 🔬 Hands-on experience with **security labs, CTF challenges, and vulnerability analysis**
+- 📚 Currently learning **Reverse Engineering, Incident Response, and Threat Hunting**
+
+---
+
+## 🛠️ Security Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,vscode" />
 </p>
+
+**Security Tools**
+
+- Wazuh (SIEM)
+- Burp Suite
+- Wireshark
+- Nmap
+- Strings / PE Analysis
+
+**Concepts**
+
+- SIEM Monitoring  
+- Log Analysis  
+- Malware Analysis  
+- Web Vulnerabilities  
+- Network Traffic Analysis  
+- Indicators of Compromise (IOC)
+
+---
+
+## 🔬 Security Projects
+
+| Project | Description |
+|-------|-------------|
+| 🛡 **SOC Monitoring Lab** | Built a SIEM monitoring environment using Wazuh to analyze Linux system logs and investigate alerts |
+| 🦠 **Malware Analysis Lab** | Performed static and dynamic malware analysis to identify malicious behaviors and extract IOCs |
+| 🌐 **Web Vulnerability Lab** | Practiced exploiting SQL Injection, XSS, and access control flaws using Burp Suite |
+| 🚨 **DDoS Attack Simulation** | Simulated DDoS attacks and analyzed abnormal traffic patterns using Wireshark |
+| 🔐 **Secure Rental Website** | Developed a web application with secure authentication and protections against SQL Injection |
+
+---
+
+## 🏴 CTF & Security Activities
+
+- Member of **PTIT Information Security Club (PIS)**
+- Participated in **PTIT CTF competitions**
+- Focus areas:
+  - Web Exploitation
+  - Reverse Engineering
+  - Digital Forensics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BGIGOO&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BGIGOO&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: **manhnguyen1768@gmail.com**
+
+---
+
+⭐ *Always learning, always breaking things ethically.*
